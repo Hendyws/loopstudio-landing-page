@@ -2,6 +2,8 @@
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
+https://hendyws.github.io/loopstudio-landing-page/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
