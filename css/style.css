@@ -229,7 +229,7 @@ footer{
 .menu-footer .underline::after{
   left: 20px;
 }
-.menu-footer .menu,
+.footer nav,
 .footer .text-content{
   margin-top: 20px;
 }
